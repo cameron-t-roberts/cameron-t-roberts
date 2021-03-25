@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Science, Technology, Space, and the World Around Us. 
 
-- 🌱 I’m currently learning Inormation Technology, Cybersecurity, as well as Web and Software Development. 
+- 🌱 I’m currently learning Information Technology, Cybersecurity, as well as Web and Software Development. 
 
 - 💞️ I’m looking to collaborate on interesting projects. I am a huge fan of open source and love projects that create useful solutions for people. 
 
